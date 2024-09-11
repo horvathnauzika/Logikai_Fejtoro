@@ -8,4 +8,8 @@ Feliratok:
 2. Ezüstláda: "Nem én rejtem a kincset"
 3. Bronzláda: "Az aranyláda hazudik"
 
-Saját vélemény: Szerintem a bronzláda felirata igaz és az ezüstben van a kincs.
+Saját vélemény: A bronzláda felirata igaz és az ezüstben van a kincs.
+
+Az eredményt felugró ablakban jelentísd meg.
+
+![GUI_Logikai_Fejtoro](https://github.com/user-attachments/assets/188797e1-c8e1-4018-aff1-cd4b3487263c)
